@@ -11,7 +11,7 @@ main {
 #hero {
     background: linear-gradient(180deg, #CEEB73 0%, #89A531 100%);
     width: 100%;
-    height: 60vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
