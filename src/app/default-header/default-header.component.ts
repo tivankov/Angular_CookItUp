@@ -6,4 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./default-header.component.css']
 })
 
-export class DefaultHeaderComponent {}
+export class DefaultHeaderComponent {
+  random_number = Math.floor(Math.random() * 5) + 1;
+}
