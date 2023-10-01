@@ -1,0 +1,23 @@
+header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.header-container {
+    img {
+        width: 20px;
+    }
+    max-width: 1600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0rem 1rem;
+}
+.header-container ul {
+    margin: 0px;
+    list-style: none;
+    gap: 2rem;
+    display: flex;
+}

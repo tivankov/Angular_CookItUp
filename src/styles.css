@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1rem;
+}
+.app-root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+@media screen and (min-width: 800px) {
+    h1 {
+        font-size: 5.5rem;
+    }
+}

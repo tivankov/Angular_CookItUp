@@ -1,0 +1,8 @@
+<li *ngFor="let card of cards" class="image-card">
+  <a href={{getLink(card.id)}}>
+    <img [attr.src]="card.src" alt="Slika">
+    <div class="text">
+      <span>{{card.title}}</span>
+    </div>
+  </a>
+</li>
