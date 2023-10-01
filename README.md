@@ -9,6 +9,5 @@ Ovo je **Angular** aplikacija izrađena pomoču **Typescript** programskog jezik
 * Ukoliko nemate Node JS instalirajte ga: **[Node JS Download](https://nodejs.org/en/download/current)**
 * Instalirajte Angular: **npm install -g @angular/cli**
 * Pozicionirajte se u preuzeti direktorij
-* pozicionirajte se u iduči direktorij: **cd CookItUp**
 * Pokrenite aplikaciju pomoću: **ng serve**
 * U pregledniku otvorite: **[localhost:4200/](http://localhost:4200/)**
